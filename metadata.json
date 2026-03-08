@@ -1,0 +1,7 @@
+{
+  "name": "الحاجة فوزية",
+  "description": "تطبيق ديني صدقة جارية، للتذكير بالصلاة والأذكار والقرآن والسبحة.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
